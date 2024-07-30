@@ -21,6 +21,6 @@ h2 {
     grid-template-columns: 800px 560px;
     gap: 10px;
 }
-ul.no-bullets {
+ul {
     list-style-type: row;
 }
