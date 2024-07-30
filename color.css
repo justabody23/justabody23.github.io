@@ -19,5 +19,5 @@ h2 {
     display: grid;
     grid-template-rows: 55px 115px 400px 175px;
     grid-template-columns: 800px 560px;
-    gap: 1px;
+    gap: 10px;
 }
