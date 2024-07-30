@@ -12,3 +12,12 @@ body {
 h2 {
     color: #ee2c60;
 }
+.layout {
+    width: 1366px;
+    height: 768px;
+  
+    display: grid;
+    grid-template-rows: 55px 115px 400px 175px;
+    grid-template-columns: 800px 560px;
+    gap: 1px;
+}
