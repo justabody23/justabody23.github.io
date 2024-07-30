@@ -1,0 +1,15 @@
+h1 {
+    color: #ee2c60;
+
+}
+p,
+li{
+    color: #2cee56;
+}
+.map {
+    color: #fcf51f;
+    font-stretch: ultra-condensed;
+}
+body {
+    background-color: black;
+}
