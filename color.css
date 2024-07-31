@@ -32,7 +32,7 @@ ul {
 }
 .box5 {
     border: #000000;
-    width: 600px;
-    height: 100px;
+    width: auto;
+    height: auto;
     border-style: solid;
 }
