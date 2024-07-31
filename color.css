@@ -20,7 +20,7 @@ h2 {
     grid-template-rows: 55px 115px 400px 175px;
     grid-template-columns: 800px 560px;
     gap: 10px;
-    -ms-layout-grid-line: 10px;
+    border-style: dashed;
 }
 ul {
     list-style-type: row;
