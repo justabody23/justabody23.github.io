@@ -19,7 +19,7 @@ h2 {
     display: grid;
     grid-template-rows: 55px 115px 400px 10px;
     grid-template-columns: 800px 560px;
-    gap: 10px;
+    gap: 0px;
 }
 .box1 {
     border: #000000;
@@ -30,7 +30,9 @@ h2 {
 .box5 {
     border: #000000;
     width: 400px;
-    height: 100px;
+    height: 200px;
+    margin: 10%;
+    padding: auto;
     border-style: solid;
 }
 .topnav {
