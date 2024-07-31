@@ -20,10 +20,6 @@ h2 {
     grid-template-rows: 55px 115px 400px 10px;
     grid-template-columns: 800px 560px;
     gap: 10px;
-
-}
-ul {
-    list-style-type: row;
 }
 .box1 {
     border: #000000;
