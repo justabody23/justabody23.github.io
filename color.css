@@ -15,24 +15,24 @@ h2 {
     color: #ee2c60;
 }
 .layout {
-    width: 1366px;
-    height: 768px;
+    width: 1566px;
+    height: 1068px;
 
     display: grid;
     grid-template-rows: 45px 115px 400px 10px;
-    grid-template-columns: 800px 560px;
+    grid-template-columns: 800px 560px 100px;
     gap: 0px;
 }
 .box5 {
     border: #000000;
-    width: fit-content;
+    width: 600px;
     height: fit-content;
 
     border-style: solid;
 }
 .box6 {
     border: #000000;
-    width: fit-content;
+    width: 700px;
     height: fit-content;
 
     border-style: solid;
