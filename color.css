@@ -34,4 +34,5 @@ ul {
     border: #000000;
     width: 600px;
     height: 600px;
+    border-style: solid;
 }
