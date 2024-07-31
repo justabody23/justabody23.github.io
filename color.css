@@ -27,6 +27,12 @@ h2 {
 
     border-style: solid;
 }
+.box6 {
+    border: #000000;
+    width: 600px;
+
+    border-style: solid;
+}
 .topnav {
     background-color: #333;
     overflow: hidden;
