@@ -25,3 +25,8 @@ h2 {
 ul {
     list-style-type: row;
 }
+.box1 {
+    border: #000000;
+    width: 50px;
+    height: 25px;
+}
