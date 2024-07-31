@@ -21,8 +21,7 @@ h2 {
     grid-template-columns: 800px 560px;
     gap: 10px;
     
-    border-style: solid;
-    border-color: black;
+    
  
 }
 ul {
