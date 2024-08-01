@@ -19,12 +19,12 @@ h2 {
 
     display: grid;
     grid-template-rows: 45px 100px 20px 600px 10px;
-    grid-template-columns: 800px 700px;
+    grid-template-columns: 800px 750px;
     gap: 0px;
 }
 .box5 {
     border: #000000;
-    width: fit-content;
+    width: 600px;
     height: fit-content;
 
     border-style: solid;
