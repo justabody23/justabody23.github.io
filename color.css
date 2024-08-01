@@ -18,7 +18,7 @@ h2 {
     
 
     display: grid;
-    grid-template-rows: 45px 115px 400px 10px;
+    grid-template-rows: 45px 100px 20px 600px 10px;
     grid-template-columns: 800px 700px;
     gap: 0px;
 }
