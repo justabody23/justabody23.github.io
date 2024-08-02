@@ -8,7 +8,7 @@ li{
 }
 body {
     background-color: #52D9BC;
-    margin: 0%;
+    margin: 1%;
     padding: 0%;
 }
 h2 {
@@ -17,11 +17,11 @@ h2 {
 .layout {
     display: grid;
     grid-template-rows: 45px 45px 600px 10px;
-    grid-template-columns: 800px 715px;
+    grid-template-columns: 800px 718px;
     gap: 0px;
 }
 .box5 {
-    margin: 5%;
+    margin: 1%;
     border: #000000;
     width: 600px;
     height: fit-content;
@@ -30,7 +30,7 @@ h2 {
 }
 .box6 {
     border: #000000;
-    width: 520px;;
+    width: 510px;;
     height: fit-content;
 
     border-style: solid;
