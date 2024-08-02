@@ -57,8 +57,11 @@ h2 {
     color: black;
   }
   .topnav2 a:hover {
-    float: right; 
+     
     background-color: #ddd;
     color: black;
+  }
+  .topnav2 {
+    float: right;
   }
   
