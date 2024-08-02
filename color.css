@@ -57,11 +57,8 @@ h2 {
     color: black;
   }
   .topnav2 a:hover {
+    float: right; 
     background-color: #ddd;
     color: black;
   }
-  .topnav2 a.split {
-    float: right;
-    background-color: #5274D9;
-    color: white;
-  }
+  
