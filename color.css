@@ -15,8 +15,6 @@ h2 {
     color: #ee2c60;
 }
 .layout {
-    
-
     display: grid;
     grid-template-rows: 45px 45px 600px 600px 10px;
     grid-template-columns: 800px 720px;
