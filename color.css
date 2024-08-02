@@ -18,8 +18,8 @@ h2 {
     
 
     display: grid;
-    grid-template-rows: 45px 100px 20px 600px 10px;
-    grid-template-columns: 800px 750px;
+    grid-template-rows: 45px 45px 600px 600px 10px;
+    grid-template-columns: 800px 720px;
     gap: 0px;
 }
 .box5 {
@@ -31,7 +31,7 @@ h2 {
 }
 .box6 {
     border: #000000;
-    width: 500px;;
+    width: 550px;;
     height: fit-content;
 
     border-style: solid;
@@ -61,7 +61,7 @@ h2 {
     background-color: #ddd;
     color: black;
   }
-  .split {
+  .topnav2 a.split {
     float: right;
     background-color: #5274D9;
     color: white;
